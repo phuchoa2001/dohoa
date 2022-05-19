@@ -1,0 +1,19 @@
+.box_product {
+    width: 100%;
+    margin-bottom:30px ;
+}
+.box_product_heading {
+    text-align: center;
+}
+.boxnavigation {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.navigation{
+    margin: auto;
+}
+.listproduct {
+  
+}

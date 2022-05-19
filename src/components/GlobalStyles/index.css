@@ -1,0 +1,13 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-color: #f5f6f7;
+}
+ol, ul {
+    padding-left: 0px;
+}
+.display {
+    display: none;
+}

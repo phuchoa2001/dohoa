@@ -1,0 +1,34 @@
+.image {
+    width: 200px;
+}
+.one {
+    filter: grayscale(1) contrast(5);
+}
+.tow {
+    filter: grayscale(1) contrast(1) brightness(2);
+    mix-blend-mode: hard-light;
+}
+.boxBtn {
+    margin-top: 10px;
+}
+.btn {
+    height: 50px;
+    width: 150px;
+    margin: 0px 10px;
+    color: #fff;
+    background: #0dcaf0;
+    border: none;
+    cursor: pointer;
+}
+.btn:hover {
+    color: #333;
+    background: orange;
+}
+.label {
+    background: orange;
+    text-align: center;
+    line-height: 50px;
+}
+.label:hover {
+    background: #0dcaf0;
+}

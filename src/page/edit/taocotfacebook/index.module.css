@@ -1,0 +1,67 @@
+.box {
+    width: 350px;
+    height: 576px;
+    background-size: 100%;
+    transform: rotate(-45deg) skewY(25deg);
+    box-shadow: -25px 40px 40px rgba(0, 0, 0, .2);
+    margin-left: 400px;
+}
+.Khung {
+    padding: 99px 0px;
+}
+.before {
+    position: absolute;
+    top: 0;
+    left: -20px;
+    height: 100%;
+    width: 20px;
+    background: #e4e4e4;
+    transform-origin: right;
+    transform: skewY(-58deg);
+}
+.hello {
+    color: #fff;
+}
+.boxFile {
+    display: grid;
+}
+.seenimgae {
+    width: 350px;
+    margin-top: 10px;
+}
+.box2 {
+    position: relative;
+    width: 350px;
+    height: 576px;
+    background-size: 100%;
+    transform: rotate(-45deg) skewY(25deg);
+    box-shadow: -25px 40px 40px rgba(0, 0, 0, .2);
+}
+.boxBtn {
+    margin-top: 10px;
+}
+.btn {
+    height: 50px;
+    width: 150px;
+    margin: 10px 10px;
+    color: #fff;
+    background: #0dcaf0;
+    border: none;
+    cursor: pointer;
+}
+.btn:hover {
+    color: #333;
+    background: orange;
+}
+.label {
+    background: orange;
+    text-align: center;
+    line-height: 50px;
+    margin-bottom: 10px;
+}
+.label:hover {
+    background: #0dcaf0;
+}
+.inputrange {
+    width: 100%;
+}
